@@ -28,7 +28,7 @@ Publish the website in the given URL.
 
 Figma.
 ## code:
-
+```
 
 /* Home Page */
 
@@ -208,6 +208,8 @@ line-height: 27px;
 /* identical to box height */
 text-align: center;
 color: #FFFFFF;
+
+```
 
 ## OUTPUT :
 
